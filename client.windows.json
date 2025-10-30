@@ -4,1322 +4,1322 @@
     "files":  [
                   {
                       "packedsize":  994,
-                      "localfile":  "init.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/init.lua",
                       "unpackedhash":  "7459f408ae154f92dbd650f4f59ffc6a03a03ec416a6f841ce61f136b1235b00",
                       "unpackedsize":  848,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/init.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/init.lua.lzma",
                       "packedhash":  "2dc3fb2b9ef8026370a4137336821920de614cfaf52471cae1d97187905cd674"
                   },
                   {
                       "packedsize":  51540,
-                      "localfile":  "libEGL.dll",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/libEGL.dll",
                       "unpackedhash":  "c5a1a7b95b94eab58340a131e47f0f05f820761d02da63e31b73f76fc696588f",
                       "unpackedsize":  112128,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/libEGL.dll.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/libEGL.dll.lzma",
                       "packedhash":  "9dbb4290d2d18a1f1d2b044c668614bfe4ceae5d5d560e55db87d8fcfc7b3d37"
                   },
                   {
                       "packedsize":  1670051,
-                      "localfile":  "libGLESv2.dll",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/libGLESv2.dll",
                       "unpackedhash":  "7a75735bbcb6df9ee2ab17a79e125bee28939e76eb1d3f7586201b63a90d1c86",
                       "unpackedsize":  6284800,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/libGLESv2.dll.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/libGLESv2.dll.lzma",
                       "packedhash":  "705c97034c15f93d8118b512cb736f532e01868efc851d4f293fb40a470de5fc"
                   },
                   {
                       "packedsize":  3296663,
-                      "localfile":  "otclient_gl.exe",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/otclient_gl.exe",
                       "unpackedhash":  "2eb64ef132c476b8c7f8cbe4325b91f613befbfeda20c6b1071b19a9526423bf",
                       "unpackedsize":  12714496,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/otclient_gl.exe.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/otclient_gl.exe.lzma",
                       "packedhash":  "bb67676b08c35400278b65a231473babba2238904371f3b1069199e6e8af0439"
                   },
                   {
                       "packedsize":  5662,
-                      "localfile":  "data/locales/de.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/data/locales/de.lua",
                       "unpackedhash":  "7d2a5bc315a6b18ec1439a3db99c5ddb1cbc1e611976e1692dfd1310864cacfb",
                       "unpackedsize":  5472,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/data/locales/de.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/data/locales/de.lua.lzma",
                       "packedhash":  "f9b70f7973bac2dc72aac4774940aaffb4dc1b4569fbf5e5238c78bb218669e9"
                   },
                   {
                       "packedsize":  363,
-                      "localfile":  "data/locales/en.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/data/locales/en.lua",
                       "unpackedhash":  "b98ed3e49141dffbf179a4d1a1bd94a0afb1aa44fd6f13103493c5c1623bb5b2",
                       "unpackedsize":  224,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/data/locales/en.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/data/locales/en.lua.lzma",
                       "packedhash":  "87ae4e72dac99fcdff10352ce9ceede26e8af132484cdfe68b04cd3b86245983"
                   },
                   {
                       "packedsize":  7415,
-                      "localfile":  "data/locales/es.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/data/locales/es.lua",
                       "unpackedhash":  "16d97a9afe02f70ac0ae1b795d149453c9fc4e4d38c9540ac96de47c94931e7d",
                       "unpackedsize":  7200,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/data/locales/es.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/data/locales/es.lua.lzma",
                       "packedhash":  "c2fe9a9057532138bd5658b60bdb6e21d366925e043507d6184e42dae94a7bad"
                   },
                   {
                       "packedsize":  7211,
-                      "localfile":  "data/locales/pl.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/data/locales/pl.lua",
                       "unpackedhash":  "1ba73e4c71e4249000cb4383d4c08c8202f7ef27d85d481f13509509b317a8a0",
                       "unpackedsize":  6992,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/data/locales/pl.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/data/locales/pl.lua.lzma",
                       "packedhash":  "238889ab6c47915d8cb86343de0f45c55a9baba4aa2c8df072fde7bd64aa4933"
                   },
                   {
                       "packedsize":  7431,
-                      "localfile":  "data/locales/pt.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/data/locales/pt.lua",
                       "unpackedhash":  "edfa867653bdb674c4bfe45320e6eb134d987922159fcc4d38fa664e8e54d49f",
                       "unpackedsize":  7216,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/data/locales/pt.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/data/locales/pt.lua.lzma",
                       "packedhash":  "e833984aa1d02693ae2a3960e056b88e0f0ad4df5a7ab70122bd643ae8280b90"
                   },
                   {
                       "packedsize":  6235,
-                      "localfile":  "data/locales/sv.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/data/locales/sv.lua",
                       "unpackedhash":  "c3c88dc58cdd2a2b813f46c8ee3a5a5cefeddff9935cce901740a00ad5fed988",
                       "unpackedsize":  6032,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/data/locales/sv.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/data/locales/sv.lua.lzma",
                       "packedhash":  "f491df8b15ebce56639f05549aa01de161a912944fac4bfc8e7e10939a093016"
                   },
                   {
                       "packedsize":  13062,
-                      "localfile":  "mods/game_guildmanagement/guild_management.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/mods/game_guildmanagement/guild_management.lua",
                       "unpackedhash":  "304fa227224a0ae58bed1fc138d485cea3ab740abdaecae1f303399e850e4d96",
                       "unpackedsize":  12752,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/mods/game_guildmanagement/guild_management.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/mods/game_guildmanagement/guild_management.lua.lzma",
                       "packedhash":  "59dc229e707dea2c7c1d62e9deebfecd93a0bb552ceb3a7962298eeb28fb5279"
                   },
                   {
                       "packedsize":  1194,
-                      "localfile":  "modules/boss_healthbar/boss_healthbar.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/boss_healthbar/boss_healthbar.lua",
                       "unpackedhash":  "1bf20a5e81e551579743431ff0cddc025833e389255eaf65238834c1641ab558",
                       "unpackedsize":  1024,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/boss_healthbar/boss_healthbar.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/boss_healthbar/boss_healthbar.lua.lzma",
                       "packedhash":  "a234b5c1b84c85650fc65e7863546bc4b4285057e8e7851d64c3c45e22a3abc1"
                   },
                   {
                       "packedsize":  1121,
-                      "localfile":  "modules/boss_ranking/boss_ranking.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/boss_ranking/boss_ranking.lua",
                       "unpackedhash":  "8192bf902bcc0ebf959dd932cce8f06571d04c3aa4758fabf542cc49757588b9",
                       "unpackedsize":  960,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/boss_ranking/boss_ranking.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/boss_ranking/boss_ranking.lua.lzma",
                       "packedhash":  "1c26e6bc86e08e1e98b9bc41e0c47d77d372d01eb2953e3d3922b7694151ba53"
                   },
                   {
                       "packedsize":  1419,
-                      "localfile":  "modules/client/client.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client/client.lua",
                       "unpackedhash":  "74d07ded23e0967c66e0114c004abbfa7d4c66de97b2fe503859e6dfb4170361",
                       "unpackedsize":  1264,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client/client.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client/client.lua.lzma",
                       "packedhash":  "ce4c954984ab72a9c8b12a908f54853ee658ea0dcebeb6bffb3507dc662e7f6c"
                   },
                   {
                       "packedsize":  817,
-                      "localfile":  "modules/client_background/background.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_background/background.lua",
                       "unpackedhash":  "8ad09ee23f6a4e813d56f82ce96fae7f64342209e3e28ad72dd1b487eea8815a",
                       "unpackedsize":  656,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_background/background.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_background/background.lua.lzma",
                       "packedhash":  "7ad34f65dcbe9e406257e230a808be82d0fe5f2f709ffa46afd16675d9d9f020"
                   },
                   {
                       "packedsize":  3107,
-                      "localfile":  "modules/client_entergame/characterlist.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_entergame/characterlist.lua",
                       "unpackedhash":  "9e38fe55d9dbcc512af55e828ad566fd609b0591a766120e1dbf2f534afff6a1",
                       "unpackedsize":  2928,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_entergame/characterlist.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_entergame/characterlist.lua.lzma",
                       "packedhash":  "f601254fe2a63d8738bb202a0b22e005a0152a270e1bea6cc4ed26252bbdcd6b"
                   },
                   {
                       "packedsize":  1011,
-                      "localfile":  "modules/client_entergame/createaccount.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_entergame/createaccount.lua",
                       "unpackedhash":  "9a9587ea2c294d411c0c6cb23ed6d0033e1f4c7bc23561a9b783341bd9ceef57",
                       "unpackedsize":  848,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_entergame/createaccount.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_entergame/createaccount.lua.lzma",
                       "packedhash":  "63c1ea69d2249b1d3d6c2782facb57d93c890b36ecf7c38e80faa8dad8bdebd2"
                   },
                   {
                       "packedsize":  1033,
-                      "localfile":  "modules/client_entergame/createcharacter.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_entergame/createcharacter.lua",
                       "unpackedhash":  "c978c13cd19ac69c62b5e3e730be7d498d3c33be934ebda6e94c03ea14578360",
                       "unpackedsize":  864,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_entergame/createcharacter.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_entergame/createcharacter.lua.lzma",
                       "packedhash":  "dd0f4861f2a2306cf15a2234d38cdbeec62f8d50fb335c382864a4d39de04c0b"
                   },
                   {
                       "packedsize":  4654,
-                      "localfile":  "modules/client_entergame/entergame.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_entergame/entergame.lua",
                       "unpackedhash":  "60cab33445cb911cef49efea0ec22963a2992657574d055a744b2dd9326c444e",
                       "unpackedsize":  4464,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_entergame/entergame.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_entergame/entergame.lua.lzma",
                       "packedhash":  "93e0bac3d19934e7de20654bf307337789a60a9889b080c047c07454b0e1fdf9"
                   },
                   {
                       "packedsize":  1195,
-                      "localfile":  "modules/client_feedback/feedback.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_feedback/feedback.lua",
                       "unpackedhash":  "b7dee2ed833502de3ff4da354f66ebb7d72d20d81d015bf45435e6e7c73953d4",
                       "unpackedsize":  1040,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_feedback/feedback.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_feedback/feedback.lua.lzma",
                       "packedhash":  "f430aa480f1ab720ab4542eec280260570ce541a4e852cb6cee47f61056e9857"
                   },
                   {
                       "packedsize":  1697,
-                      "localfile":  "modules/client_locales/locales.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_locales/locales.lua",
                       "unpackedhash":  "69b3c4153fb38f399d268a042c59598875d6c4f9d08eb851c1d08422302d29b9",
                       "unpackedsize":  1536,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_locales/locales.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_locales/locales.lua.lzma",
                       "packedhash":  "4bb91b5557ad0f32c3e3fb66d20b4c160166b254434f5765a90d3e85a7d27fec"
                   },
                   {
                       "packedsize":  3447,
-                      "localfile":  "modules/client_locales/neededtranslations.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_locales/neededtranslations.lua",
                       "unpackedhash":  "0cff1d9f6b77ba11ca19e1bfbf41a84537bf9360ebc4293e0f8a892eab8af662",
                       "unpackedsize":  3248,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_locales/neededtranslations.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_locales/neededtranslations.lua.lzma",
                       "packedhash":  "d88acf78f8056d1504d406e2a633da5f64907446438c3d8cbdb541d6cc1d74fd"
                   },
                   {
                       "packedsize":  1596,
-                      "localfile":  "modules/client_mobile/mobile.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_mobile/mobile.lua",
                       "unpackedhash":  "094bfd5dc78a633a71d3aee723a7c1c671fa7a8589d10255edf4e9d6f74e7c6d",
                       "unpackedsize":  1440,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_mobile/mobile.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_mobile/mobile.lua.lzma",
                       "packedhash":  "c75dbce985ea8832c2c5c94ceee9aa791ea169bcbde4389cd341b4569b2ef477"
                   },
                   {
                       "packedsize":  3471,
-                      "localfile":  "modules/client_options/options.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_options/options.lua",
                       "unpackedhash":  "179206b759fdfcfd65bb925b7391c6ed52ba8ade6d1b1f922e3037c286267876",
                       "unpackedsize":  3296,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_options/options.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_options/options.lua.lzma",
                       "packedhash":  "92ad9c496143d6370e42be239b30c7a1942690f54713ed05dea3966b0142987d"
                   },
                   {
                       "packedsize":  1515,
-                      "localfile":  "modules/client_profiles/profiles.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_profiles/profiles.lua",
                       "unpackedhash":  "8d0d4fffe99e120befdb39b33d34ac9084055841dcc55fbf8fdbf7b69d35edbf",
                       "unpackedsize":  1360,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_profiles/profiles.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_profiles/profiles.lua.lzma",
                       "packedhash":  "ff441e8ee8769ccefe33874b3bf38769cb26df561664716dcb930190552e79e6"
                   },
                   {
                       "packedsize":  580,
-                      "localfile":  "modules/client_styles/styles.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_styles/styles.lua",
                       "unpackedhash":  "a86bd7e92a3cccf7d6c4420b8e73d6568d47856d60415f0297c587c6f3a359d9",
                       "unpackedsize":  432,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_styles/styles.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_styles/styles.lua.lzma",
                       "packedhash":  "c9102348a1296898d50e0ef46bf332ef852badc82787ba8f644fe65537f21f77"
                   },
                   {
                       "packedsize":  2585,
-                      "localfile":  "modules/client_terminal/commands.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_terminal/commands.lua",
                       "unpackedhash":  "8984bbdb3ce31670ed39ad528191f06a3834d973d621f11632ea8274f41fa295",
                       "unpackedsize":  2416,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_terminal/commands.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_terminal/commands.lua.lzma",
                       "packedhash":  "0fb20772d69b4b8aeb79287de84d110ba3e6f471ae4c06bb6440e7270788e429"
                   },
                   {
                       "packedsize":  3471,
-                      "localfile":  "modules/client_terminal/terminal.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_terminal/terminal.lua",
                       "unpackedhash":  "3e13a3634c272335b604b0e4b1003173be89ecf8f06eb225d18a65e498c08a92",
                       "unpackedsize":  3296,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_terminal/terminal.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_terminal/terminal.lua.lzma",
                       "packedhash":  "5ecde1ea0679986be2e61d1c32ee0191285ca318a31d024a7c1590d4f4e76061"
                   },
                   {
                       "packedsize":  1356,
-                      "localfile":  "modules/client_textedit/textedit.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_textedit/textedit.lua",
                       "unpackedhash":  "37bfcf50f51c94282ad7cc65c1efa74ea597ba52d73d73fe7dc585b2c192cc5b",
                       "unpackedsize":  1200,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_textedit/textedit.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_textedit/textedit.lua.lzma",
                       "packedhash":  "096814beca3de3dd8c62df7f8ace83bbde1d6aa14ff1d30fdc40b730d98a9c20"
                   },
                   {
                       "packedsize":  2552,
-                      "localfile":  "modules/client_topmenu/topmenu.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_topmenu/topmenu.lua",
                       "unpackedhash":  "2bf5a36563a31d3ccf94a1ea5b098a2ca202a8fcb1ca55ce30c2df669cf5eea3",
                       "unpackedsize":  2384,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_topmenu/topmenu.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_topmenu/topmenu.lua.lzma",
                       "packedhash":  "3278b4f29d84c275bbd4d722ebf380cfd8b1f35e25894e235cc7be95b9315817"
                   },
                   {
                       "packedsize":  743,
-                      "localfile":  "modules/client_ui_debug/client_ui_debug.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_ui_debug/client_ui_debug.lua",
                       "unpackedhash":  "6263378e99bd2c744fd223f2f972d10c54434b3c6d2e235b22c11cf951adb827",
                       "unpackedsize":  576,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/client_ui_debug/client_ui_debug.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/client_ui_debug/client_ui_debug.lua.lzma",
                       "packedhash":  "9db841c63d95225f95a27839857c5af9371e2af9a553e5bdde2d4c8e14d61611"
                   },
                   {
                       "packedsize":  1648,
-                      "localfile":  "modules/contracts/contracts.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/contracts/contracts.lua",
                       "unpackedhash":  "0359b6af7bcf6f2b306d9af48d85afb342cd015e6f39cedd380b258c28d1a940",
                       "unpackedsize":  1488,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/contracts/contracts.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/contracts/contracts.lua.lzma",
                       "packedhash":  "8b2aa5a584f55e374c5ed4b83ef7ea5b011800c5b648e7ca3423808b335f77ac"
                   },
                   {
                       "packedsize":  2376,
-                      "localfile":  "modules/corelib/base64.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/base64.lua",
                       "unpackedhash":  "5cc4d840fa9c77032d0968e61f8a717a22bff5db70c05617fa1915d3ce370a70",
                       "unpackedsize":  2208,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/base64.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/base64.lua.lzma",
                       "packedhash":  "0c40d5fb851f0550ea2c5008f986c48a6fd6d4e9df928e5c98c6aa13d46bf570"
                   },
                   {
                       "packedsize":  289,
-                      "localfile":  "modules/corelib/bitwise.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/bitwise.lua",
                       "unpackedhash":  "8e7fe6ee17fd8c6e19f43c6f8505274f8ae90df07fc0734d805c70ac4c0de6de",
                       "unpackedsize":  144,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/bitwise.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/bitwise.lua.lzma",
                       "packedhash":  "16af545139d402b8309748a5dd8df27b089b63d6665c6fe06acba2eb0a3e6e51"
                   },
                   {
                       "packedsize":  565,
-                      "localfile":  "modules/corelib/config.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/config.lua",
                       "unpackedhash":  "a6862784708a0001ef65ebdaf418289a662ace0fe853f163cbefa97b91bca41e",
                       "unpackedsize":  416,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/config.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/config.lua.lzma",
                       "packedhash":  "9d1f3a5844bdc1a35f0920ea0e75a5db97ca796b8211f63ec8accbdfc1444823"
                   },
                   {
                       "packedsize":  2304,
-                      "localfile":  "modules/corelib/const.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/const.lua",
                       "unpackedhash":  "5ce32388188d158a207a9b8276b92d6a1145366ff4d16333db780a1357233840",
                       "unpackedsize":  2144,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/const.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/const.lua.lzma",
                       "packedhash":  "fc294bdbeed8902ec8fcd88d2c9201835108ad77bbb59ed6a3f6372271c219db"
                   },
                   {
                       "packedsize":  710,
-                      "localfile":  "modules/corelib/globals.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/globals.lua",
                       "unpackedhash":  "10d930b9240cb8d8679d3939e37855c9bb5e6597999e49dccd04e1af7e001a04",
                       "unpackedsize":  560,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/globals.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/globals.lua.lzma",
                       "packedhash":  "278ac425a8c18cdcaf16735f23cd88b88623c32d83bb02aba7483638ce30da4a"
                   },
                   {
                       "packedsize":  1510,
-                      "localfile":  "modules/corelib/http.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/http.lua",
                       "unpackedhash":  "92d8bc09dae2b70bad635dc53e6cd273ec2a82b730fb6e25cb119566d15a1291",
                       "unpackedsize":  1360,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/http.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/http.lua.lzma",
                       "packedhash":  "37142575925a4e81ce891635def067b4a4a7be59b45866a511c6b0e02be7ec6b"
                   },
                   {
                       "packedsize":  541,
-                      "localfile":  "modules/corelib/inputmessage.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/inputmessage.lua",
                       "unpackedhash":  "945d3731a42dac9a1c9fc3a064bd57d543b8933e98e530d207b4859912a15254",
                       "unpackedsize":  384,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/inputmessage.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/inputmessage.lua.lzma",
                       "packedhash":  "3e676c59fcf19b1cb2b594a3262f69374e5dac666d6bc310182cae879ce7d5d0"
                   },
                   {
                       "packedsize":  337,
-                      "localfile":  "modules/corelib/item_attributes.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/item_attributes.lua",
                       "unpackedhash":  "2ff90b2c9bf19ef9d1b99951b4ef56abc5178b9292c32660480254555816c813",
                       "unpackedsize":  176,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/item_attributes.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/item_attributes.lua.lzma",
                       "packedhash":  "741014ef1f3382401c8cf87b2a0f2c3cd3cd74995c30fcdf583dd11782e4f25d"
                   },
                   {
                       "packedsize":  3484,
-                      "localfile":  "modules/corelib/json.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/json.lua",
                       "unpackedhash":  "b281775c9ae7ce3a97e2dbe4711719f98089dee69f965abe92ed504cd217ca5a",
                       "unpackedsize":  3312,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/json.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/json.lua.lzma",
                       "packedhash":  "07a5727323007f147c586bafe33e989131536de28a645afea49e5caefa8f0db6"
                   },
                   {
                       "packedsize":  1552,
-                      "localfile":  "modules/corelib/keyboard.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/keyboard.lua",
                       "unpackedhash":  "09b498bdf7b0162cafe5130f9c0a9c19ff807a616f2d84b69e078699eb00c553",
                       "unpackedsize":  1392,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/keyboard.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/keyboard.lua.lzma",
                       "packedhash":  "b9bd84746855794ef1381d7c59693a33c047f62a50aacfb39cef22ff7129d607"
                   },
                   {
                       "packedsize":  428,
-                      "localfile":  "modules/corelib/math.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/math.lua",
                       "unpackedhash":  "b6a15565a8439b901071cd1cbdbbffc822cd86b53b9234f8cb27419f0f3060b1",
                       "unpackedsize":  288,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/math.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/math.lua.lzma",
                       "packedhash":  "fc8503107339fa334758171ecc9fabf1ed80a5dc2e6cee37b85d3e4c663ba49b"
                   },
                   {
                       "packedsize":  525,
-                      "localfile":  "modules/corelib/mouse.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/mouse.lua",
                       "unpackedhash":  "c5bcd7787aac7b48624c760fe7e02e00f104c70b4afd43fc16dd9abc7855a790",
                       "unpackedsize":  384,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/mouse.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/mouse.lua.lzma",
                       "packedhash":  "70a154812382a20f8bece795f40bfc936f13aee0113fff6744fc429945cc870e"
                   },
                   {
                       "packedsize":  460,
-                      "localfile":  "modules/corelib/net.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/net.lua",
                       "unpackedhash":  "0e3ed0383c61d0a260f7b3594c88b19a4c1d0df0653a0a24b25c16fdc5691732",
                       "unpackedsize":  320,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/net.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/net.lua.lzma",
                       "packedhash":  "4a01e36d557da9295b4b9d1e1265ca0262628e478d8406c41f8e0ba2dca20d7d"
                   },
                   {
                       "packedsize":  639,
-                      "localfile":  "modules/corelib/orderedtable.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/orderedtable.lua",
                       "unpackedhash":  "0ec127d128923f2defba5741968fe84133bdcdae32d07ca9f020cc7c64544aac",
                       "unpackedsize":  480,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/orderedtable.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/orderedtable.lua.lzma",
                       "packedhash":  "219e980f042af669a06f32e07728cde523af94c7abf666e6168dcf45236d2dea"
                   },
                   {
                       "packedsize":  734,
-                      "localfile":  "modules/corelib/outputmessage.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/outputmessage.lua",
                       "unpackedhash":  "7e983d7e185ce76a8ae9bc140462be002f52d93bb59dc231e18e829a7fba0e44",
                       "unpackedsize":  576,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/outputmessage.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/outputmessage.lua.lzma",
                       "packedhash":  "7932fd83acbc8686ad9cd0d573d2e6c7f3cbbd79305d8643143e82827f765f8c"
                   },
                   {
                       "packedsize":  255,
-                      "localfile":  "modules/corelib/settings.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/settings.lua",
                       "unpackedhash":  "653b1da4d24089e80af4863bcfef339f6bf4a63e412b2425da4b4f921ee5b8f5",
                       "unpackedsize":  112,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/settings.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/settings.lua.lzma",
                       "packedhash":  "2ca2d49349f5ea38fd926107d7b187ef14cbb8dcb9a37461f32ab8db2d1fb158"
                   },
                   {
                       "packedsize":  696,
-                      "localfile":  "modules/corelib/string.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/string.lua",
                       "unpackedhash":  "7bafb86abbb024ff3da63505f4b3de5d69ffb335424a137bfb9ba884c2beb2c9",
                       "unpackedsize":  544,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/string.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/string.lua.lzma",
                       "packedhash":  "238b33e5ba797eacb0892967a105c122fe798182ed03fdae5570eb2763bad7b2"
                   },
                   {
                       "packedsize":  1276,
-                      "localfile":  "modules/corelib/struct.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/struct.lua",
                       "unpackedhash":  "69c744fc1f3b2010bf9d2f021102cdd23e398f3e88f9af4002e79e92d12f6c7b",
                       "unpackedsize":  1120,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/struct.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/struct.lua.lzma",
                       "packedhash":  "5a036a987ab4ea262609997958d3d1a2a5e4bb290ce864aa5e266aef6a91f325"
                   },
                   {
                       "packedsize":  1866,
-                      "localfile":  "modules/corelib/table.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/table.lua",
                       "unpackedhash":  "74d1e5501964339af7a8571ee89cbd7f685d9dc4f7dcb45c216cb4b014728991",
                       "unpackedsize":  1712,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/table.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/table.lua.lzma",
                       "packedhash":  "5c2967c62f2fa1731c6153abccd6504c931c30f4074aa4613cdfa04c4e6719b4"
                   },
                   {
                       "packedsize":  751,
-                      "localfile":  "modules/corelib/test.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/test.lua",
                       "unpackedhash":  "5502804f99934ff310f95a14fa30a7d73047ae04204fac3668c722bbcd6ff50e",
                       "unpackedsize":  608,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/test.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/test.lua.lzma",
                       "packedhash":  "986f2c121699b3fe4b919869c5b26abebc24c15728655f12a5fe045d3e8b0ebd"
                   },
                   {
                       "packedsize":  2317,
-                      "localfile":  "modules/corelib/util.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/util.lua",
                       "unpackedhash":  "f19235e2e01626d3f439ded1bd6258bfa812e775b77328e59ac80cbd97e01f41",
                       "unpackedsize":  2160,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/util.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/util.lua.lzma",
                       "packedhash":  "417e8ac63e553bdbedd3a28a638e5251665356351f11180724e6f85b33d25533"
                   },
                   {
                       "packedsize":  1710,
-                      "localfile":  "modules/corelib/ui/effects.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/effects.lua",
                       "unpackedhash":  "a270b55733b007293764c2290d0a28f219656f81fb78572d2928877bcb443643",
                       "unpackedsize":  1552,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/effects.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/effects.lua.lzma",
                       "packedhash":  "fcaf37dab69ea43b95465449c317ead24578fede267471aafd808c434c836415"
                   },
                   {
                       "packedsize":  2973,
-                      "localfile":  "modules/corelib/ui/tooltip.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/tooltip.lua",
                       "unpackedhash":  "93d420c3948a51d45fe0419f0739c2c7874c8073b4ec628a18d10aa92ede86bc",
                       "unpackedsize":  2800,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/tooltip.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/tooltip.lua.lzma",
                       "packedhash":  "2a5e369451c38dba762151a2e04a9c34638352ca6ddc668de98ad3eff0ff8dba"
                   },
                   {
                       "packedsize":  338,
-                      "localfile":  "modules/corelib/ui/uibutton.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uibutton.lua",
                       "unpackedhash":  "354f214945827c8358e843f0f354de62b235fbb785f733a0b39f2fd90e16737e",
                       "unpackedsize":  192,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uibutton.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uibutton.lua.lzma",
                       "packedhash":  "555c22583e80f266f13d355bed558022c80e52c366819fa3ce3ee65cab0cf122"
                   },
                   {
                       "packedsize":  363,
-                      "localfile":  "modules/corelib/ui/uicheckbox.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uicheckbox.lua",
                       "unpackedhash":  "0a7847bd27fa73247e6f260b2a151eb36aaa7d47785ff6f7e89cca56a3e07db8",
                       "unpackedsize":  208,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uicheckbox.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uicheckbox.lua.lzma",
                       "packedhash":  "3b596bd9331851614725956d8de37ec0022b25489c486a4f167e29582636f70a"
                   },
                   {
                       "packedsize":  1346,
-                      "localfile":  "modules/corelib/ui/uicombobox.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uicombobox.lua",
                       "unpackedhash":  "7b8f7cb3976ab418ef51bc6991a1fb030b5689d23c36ad42d320926487fefcbe",
                       "unpackedsize":  1184,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uicombobox.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uicombobox.lua.lzma",
                       "packedhash":  "5a8b51302a530f31542b379fef2295c4a9ac188fc7455b2f8e4006aa3c6cc209"
                   },
                   {
                       "packedsize":  927,
-                      "localfile":  "modules/corelib/ui/uiimageview.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiimageview.lua",
                       "unpackedhash":  "cb1a4687e4ecc7b8ee99662a3dcf12c759ec2ea90f7627542a313fe5c31c9ddd",
                       "unpackedsize":  768,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uiimageview.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiimageview.lua.lzma",
                       "packedhash":  "410e49cfe5c0f3b8c497a71e2d018cfc76ae927d8a01fd08e0d5ba87d60b36a9"
                   },
                   {
                       "packedsize":  1122,
-                      "localfile":  "modules/corelib/ui/uiinputbox.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiinputbox.lua",
                       "unpackedhash":  "cfc842801184087b7c6021f345038ee0914725774bd98955f75c9a7e6fe9060b",
                       "unpackedsize":  960,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uiinputbox.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiinputbox.lua.lzma",
                       "packedhash":  "880b3b367ca9098a11c8f9dc4dee7c4e6192d32538eb47331a1becc2649604a6"
                   },
                   {
                       "packedsize":  322,
-                      "localfile":  "modules/corelib/ui/uilabel.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uilabel.lua",
                       "unpackedhash":  "e12533eb34a7f6d609d73f4721280a6cebf967261ea5230582356621aa337972",
                       "unpackedsize":  176,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uilabel.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uilabel.lua.lzma",
                       "packedhash":  "a50e637eec75c1770f0846e54331bdf53d01ffc4b3c7d97b782461c3059ee819"
                   },
                   {
                       "packedsize":  1542,
-                      "localfile":  "modules/corelib/ui/uimessagebox.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uimessagebox.lua",
                       "unpackedhash":  "a86055249b917b975df607af5ebced8b8969fa558014e6771df3c3a9d00b547d",
                       "unpackedsize":  1376,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uimessagebox.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uimessagebox.lua.lzma",
                       "packedhash":  "cb3ac2ccf11f86675c82fc2c4c57668a13cdcd1535f2ab0190fd6cebc017e3f0"
                   },
                   {
                       "packedsize":  2413,
-                      "localfile":  "modules/corelib/ui/uiminiwindow.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiminiwindow.lua",
                       "unpackedhash":  "f52dd81473aa60a079849604ec16199880aeb074a1256eca8801dee7202eadcb",
                       "unpackedsize":  2240,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uiminiwindow.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiminiwindow.lua.lzma",
                       "packedhash":  "13db52e14c47f77b58abeb58a669703ecbf0d176afec2f6181124d49ec80277b"
                   },
                   {
                       "packedsize":  1576,
-                      "localfile":  "modules/corelib/ui/uiminiwindowcontainer.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiminiwindowcontainer.lua",
                       "unpackedhash":  "7794a3181437064e4f11a1cc8ca08d47cf76cd05238825d51b2810d57a5929a3",
                       "unpackedsize":  1392,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uiminiwindowcontainer.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiminiwindowcontainer.lua.lzma",
                       "packedhash":  "a85192a0f73c77b2a070c5ac90cc915873824c8697e0f3c9f7341bda181bc42b"
                   },
                   {
                       "packedsize":  2892,
-                      "localfile":  "modules/corelib/ui/uimovabletabbar.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uimovabletabbar.lua",
                       "unpackedhash":  "4a3e62bdb0ba08c0e17ed957c432c0eeed84187d4145c521bbe93379cac73bae",
                       "unpackedsize":  2704,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uimovabletabbar.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uimovabletabbar.lua.lzma",
                       "packedhash":  "bc91c0b08f87dbc2e234c0f728424f8d0fd57f8cdd6b7c50c062e7bcca94796d"
                   },
                   {
                       "packedsize":  1250,
-                      "localfile":  "modules/corelib/ui/uipopupmenu.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uipopupmenu.lua",
                       "unpackedhash":  "1a3c9cd12e5d2be7303714881ce6ffd7abe81ae66b9bbde98d53647d312e113f",
                       "unpackedsize":  1088,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uipopupmenu.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uipopupmenu.lua.lzma",
                       "packedhash":  "e34fb0e8b119c748028117ac735d0d47f972b9cb2f93628c07a52136a196c467"
                   },
                   {
                       "packedsize":  1324,
-                      "localfile":  "modules/corelib/ui/uipopupscrollmenu.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uipopupscrollmenu.lua",
                       "unpackedhash":  "cecc6624628c03ec3386de983fecace0d4341887ababe61304909799d046a319",
                       "unpackedsize":  1152,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uipopupscrollmenu.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uipopupscrollmenu.lua.lzma",
                       "packedhash":  "b7af3b11219812e59ebabd756e75316eae3996c64fd2180f123cfd4677fa78e2"
                   },
                   {
                       "packedsize":  880,
-                      "localfile":  "modules/corelib/ui/uiprogressbar.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiprogressbar.lua",
                       "unpackedhash":  "88132a5d03fc9ecdfca5051367c21e3051a2f541155aaaf2d624ed5a87923842",
                       "unpackedsize":  720,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uiprogressbar.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiprogressbar.lua.lzma",
                       "packedhash":  "9018db2a5ca2239097985208afb7f4f84c7e31bc79e71f9c274d5e5ad2127e21"
                   },
                   {
                       "packedsize":  686,
-                      "localfile":  "modules/corelib/ui/uiradiogroup.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiradiogroup.lua",
                       "unpackedhash":  "46cd8c35f71f5336bb210837407c7c92158b383b710b0604db8f9f233dd0ace1",
                       "unpackedsize":  528,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uiradiogroup.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiradiogroup.lua.lzma",
                       "packedhash":  "df9f7db1dac924b0737ac4bb555113ced6b558981b06cab28549625b67d41e50"
                   },
                   {
                       "packedsize":  1048,
-                      "localfile":  "modules/corelib/ui/uiresizeborder.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiresizeborder.lua",
                       "unpackedhash":  "05077d98516d5dcb1313ec0e75ca450fbfd007d5dc0998d7354b1f92395a8965",
                       "unpackedsize":  880,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uiresizeborder.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiresizeborder.lua.lzma",
                       "packedhash":  "c734a645e8f90e8ea136006c236b6a8f1dd72d671842b7f933abf4b045e81931"
                   },
                   {
                       "packedsize":  1414,
-                      "localfile":  "modules/corelib/ui/uiscrollarea.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiscrollarea.lua",
                       "unpackedhash":  "8a88d35b824e709bedd2d08479728d6e7bc63483c1dac870bf7c3806fe6e781b",
                       "unpackedsize":  1248,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uiscrollarea.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiscrollarea.lua.lzma",
                       "packedhash":  "05cfad845c5c99c034258b354b5eed5687a2ef574c230c2fa468738204066d47"
                   },
                   {
                       "packedsize":  2027,
-                      "localfile":  "modules/corelib/ui/uiscrollbar.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiscrollbar.lua",
                       "unpackedhash":  "bf7b17be3a6d418dc8ce429e8fd8ca2171e72ac785ca53a950b5eae780f25c37",
                       "unpackedsize":  1856,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uiscrollbar.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiscrollbar.lua.lzma",
                       "packedhash":  "459583b3877036694ca0cb57deffd4124cf31bd75c9196213c5c29cee3b8e3ad"
                   },
                   {
                       "packedsize":  1310,
-                      "localfile":  "modules/corelib/ui/uispinbox.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uispinbox.lua",
                       "unpackedhash":  "6c4531b8e0ef8513a664c987676d6a446f93bcc0a467182514f5004df51c4bea",
                       "unpackedsize":  1152,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uispinbox.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uispinbox.lua.lzma",
                       "packedhash":  "6eaa788786bc47f8310bcdc39156a1b624f82bfa3e0df2f0c10e529f12a43785"
                   },
                   {
                       "packedsize":  928,
-                      "localfile":  "modules/corelib/ui/uisplitter.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uisplitter.lua",
                       "unpackedhash":  "d1dfd93e32caaa05422f41159c2e26cf780cb41548865e09307ab2d4df91206e",
                       "unpackedsize":  768,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uisplitter.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uisplitter.lua.lzma",
                       "packedhash":  "4087f1f67721dfddf48d45fdc462c483d504d79b1dfaf6f4e252456afed2a964"
                   },
                   {
                       "packedsize":  1307,
-                      "localfile":  "modules/corelib/ui/uitabbar.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uitabbar.lua",
                       "unpackedhash":  "7f91cae8107a4789036f7769d8a1a3e371227aa6885544c19083f406d6086a1d",
                       "unpackedsize":  1152,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uitabbar.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uitabbar.lua.lzma",
                       "packedhash":  "3c7ca9f7341371bef03929bfc3b6c56ad8c99fa63efe22a22778abcf646c453a"
                   },
                   {
                       "packedsize":  2810,
-                      "localfile":  "modules/corelib/ui/uitable.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uitable.lua",
                       "unpackedhash":  "304676a1e4e4567576e389ca1a965a7b6e9cb188b6ec0ca73d50478253473299",
                       "unpackedsize":  2640,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uitable.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uitable.lua.lzma",
                       "packedhash":  "02eb7a9a193062c0ec8a0e575abd2d8f76bba9f76078b12afda60b1c67d26c76"
                   },
                   {
                       "packedsize":  784,
-                      "localfile":  "modules/corelib/ui/uitextedit.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uitextedit.lua",
                       "unpackedhash":  "353cc8f742ae853bbaa355b917c8c328159ba41b3d2caf7e1d2d983a384f4b1d",
                       "unpackedsize":  624,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uitextedit.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uitextedit.lua.lzma",
                       "packedhash":  "31c45b921b783879a89ca6428f62df06e4d30fa17e2bd84dd068dc9e846aab87"
                   },
                   {
                       "packedsize":  338,
-                      "localfile":  "modules/corelib/ui/uiwidget.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiwidget.lua",
                       "unpackedhash":  "381cc3f6ce00ee9dc2b0be202f314196218e803ca5dc75366403e078f6b2ac28",
                       "unpackedsize":  192,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uiwidget.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiwidget.lua.lzma",
                       "packedhash":  "fe35d7e273f8bd8be5c65a3b8f4eb4de7258c87754fef737400020915e636408"
                   },
                   {
                       "packedsize":  839,
-                      "localfile":  "modules/corelib/ui/uiwindow.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiwindow.lua",
                       "unpackedhash":  "b745220e7675eed211f52c2e667f33468b61812e5b1eb9f9af5a9acb70978860",
                       "unpackedsize":  688,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/corelib/ui/uiwindow.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/corelib/ui/uiwindow.lua.lzma",
                       "packedhash":  "b4adeb71df48fd45b99fe029bfc090b5f7d1b225bb942d8a56bb9848d1b53181"
                   },
                   {
                       "packedsize":  533,
-                      "localfile":  "modules/crash_reporter/crash_reporter.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/crash_reporter/crash_reporter.lua",
                       "unpackedhash":  "a8ec601bce362aa8ae11ce1b05fb1a2a54eda5d8da84a965a64f68134d59323f",
                       "unpackedsize":  368,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/crash_reporter/crash_reporter.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/crash_reporter/crash_reporter.lua.lzma",
                       "packedhash":  "8c01672cc8d0a9a10ea6776c281191262e10a01159b532c4064d9fe211789452"
                   },
                   {
                       "packedsize":  4034,
-                      "localfile":  "modules/gamelib/const.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/const.lua",
                       "unpackedhash":  "a8dba2bb423525b7a61e7598b629b76e88b47bac4d6203ae1187da6984719526",
                       "unpackedsize":  3856,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/const.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/const.lua.lzma",
                       "packedhash":  "17e3c3352f7a58b8e102551effd739d8983ce76793576fce9376868dbf2931c2"
                   },
                   {
                       "packedsize":  1146,
-                      "localfile":  "modules/gamelib/creature.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/creature.lua",
                       "unpackedhash":  "3a1c3e841bb9c1d41bed828e82a4c3de41b69639689539fc5a7da58d0d8e27ce",
                       "unpackedsize":  992,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/creature.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/creature.lua.lzma",
                       "packedhash":  "0f2c54bc964499b9caba0dce75585c0188edd3e9bb22c571aef0fc60f1d608c6"
                   },
                   {
                       "packedsize":  1427,
-                      "localfile":  "modules/gamelib/game.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/game.lua",
                       "unpackedhash":  "a3738ef198628f65564ce0d75b9cd4a46dc18d9d01e5408c0d0e524b72ebc70a",
                       "unpackedsize":  1280,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/game.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/game.lua.lzma",
                       "packedhash":  "b80ab36eaf405e8805f220ba7df2846c046578a0f9beaafaa241ba54799eea4b"
                   },
                   {
                       "packedsize":  1421,
-                      "localfile":  "modules/gamelib/market.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/market.lua",
                       "unpackedhash":  "9f3cadaecf882972faaa552d0dc10f64121b38ff0418e4388ae5d417b97eec5d",
                       "unpackedsize":  1264,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/market.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/market.lua.lzma",
                       "packedhash":  "72ec6484a70fc22c6569392e185e5493b33495fd26042384394dcada9f55fe93"
                   },
                   {
                       "packedsize":  1179,
-                      "localfile":  "modules/gamelib/player.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/player.lua",
                       "unpackedhash":  "245bf132efe1d1c673af192a66e0ab544551b1035eae9b577e6e55740e77cf8f",
                       "unpackedsize":  1024,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/player.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/player.lua.lzma",
                       "packedhash":  "d7c92d0ea9808e9a5f35523ec74d2756507e3d203e5cf2b7685cf2017cf24f57"
                   },
                   {
                       "packedsize":  4983,
-                      "localfile":  "modules/gamelib/pokemon_type.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/pokemon_type.lua",
                       "unpackedhash":  "7fa06fe98dff36881dc23febabb1ae0f1b00dfe8a437ad241b55941b2ea4f5b4",
                       "unpackedsize":  4784,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/pokemon_type.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/pokemon_type.lua.lzma",
                       "packedhash":  "539edcc336b4e340cd5ebbadfbf18454238ae41409729336e70e95f9f0baa1b6"
                   },
                   {
                       "packedsize":  500,
-                      "localfile":  "modules/gamelib/position.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/position.lua",
                       "unpackedhash":  "66de6722e331c8d1e93b4e0640fc886f10534b4230dfff3e636bbf43164cb918",
                       "unpackedsize":  352,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/position.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/position.lua.lzma",
                       "packedhash":  "72cce3c862dedd91b85fe749aa645db6be332faa9a5aa5ba8a5689a04ccea659"
                   },
                   {
                       "packedsize":  2131,
-                      "localfile":  "modules/gamelib/protocol.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/protocol.lua",
                       "unpackedhash":  "7d3de48e3bc4266a7fe11a75c3d44c402f2f4134ff83e35fd23de0d2069b34c2",
                       "unpackedsize":  1968,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/protocol.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/protocol.lua.lzma",
                       "packedhash":  "eb7b4ec70854cbbeba47e6fc499b18059b22a667eddf331c230757ae2f9ddfde"
                   },
                   {
                       "packedsize":  1025,
-                      "localfile":  "modules/gamelib/protocolcreateaccount.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/protocolcreateaccount.lua",
                       "unpackedhash":  "4ce03a8548560fe9bd5bff3cee1b7e0c3d207946c713b8d8e1969faba9fe64fe",
                       "unpackedsize":  848,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/protocolcreateaccount.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/protocolcreateaccount.lua.lzma",
                       "packedhash":  "e133cecfb8a212e8f867e14a2c80df819b70e9f26ea71eacb84fbc44c397fdf6"
                   },
                   {
                       "packedsize":  968,
-                      "localfile":  "modules/gamelib/protocolcreatecharacter.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/protocolcreatecharacter.lua",
                       "unpackedhash":  "73e5d76caae6303a1adad7a18c24fa85931ab430b578384dc61e39b98d6c0d88",
                       "unpackedsize":  784,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/protocolcreatecharacter.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/protocolcreatecharacter.lua.lzma",
                       "packedhash":  "ee89c33a58d40bb62845f6f2b0253cae0c73ec9a1ef1f53289c180ea415c9ddc"
                   },
                   {
                       "packedsize":  1072,
-                      "localfile":  "modules/gamelib/protocolgame.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/protocolgame.lua",
                       "unpackedhash":  "295d00f44f902e2ea993fd4a34a8f903d23bcb66351ad7b371eed2051180db43",
                       "unpackedsize":  912,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/protocolgame.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/protocolgame.lua.lzma",
                       "packedhash":  "95d2c23bd3c091bd0812480f424418ae42f3a3535fa02b5f3820755c05e5c7a8"
                   },
                   {
                       "packedsize":  2350,
-                      "localfile":  "modules/gamelib/protocollogin.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/protocollogin.lua",
                       "unpackedhash":  "5dda2f9b2e5969fe89d4cf8d2bf96d94438ef53a1e0b84a2c68584b2653a8300",
                       "unpackedsize":  2176,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/protocollogin.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/protocollogin.lua.lzma",
                       "packedhash":  "c0cf59213a08d1901c6e5087d6952b5facafab8171b8354057fbaae3e78146d2"
                   },
                   {
                       "packedsize":  8316,
-                      "localfile":  "modules/gamelib/spells.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/spells.lua",
                       "unpackedhash":  "e7ac355be22a97bece0264e64ab43392c38a0ec2d29668213e55aceae906403e",
                       "unpackedsize":  8080,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/spells.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/spells.lua.lzma",
                       "packedhash":  "ef8567fd90b33cdf0847f180b8d21442ae8e266441ae1513a3e4f74baa4192de"
                   },
                   {
                       "packedsize":  460,
-                      "localfile":  "modules/gamelib/textmessages.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/textmessages.lua",
                       "unpackedhash":  "0729539862140fa77a7a7bd855111ad2cda18a3ee37f5bf68b4ae104859a9f53",
                       "unpackedsize":  304,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/textmessages.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/textmessages.lua.lzma",
                       "packedhash":  "8020a79240eea561f27633d8aa1d9a2fbeb0e98a582fb1306aac83db64e19df2"
                   },
                   {
                       "packedsize":  687,
-                      "localfile":  "modules/gamelib/thing.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/thing.lua",
                       "unpackedhash":  "6d1c7e1bb19f564e85701d46b403eb6eefaa125b8e23e3a8dad7356f16fd97d2",
                       "unpackedsize":  544,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/thing.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/thing.lua.lzma",
                       "packedhash":  "904644e15176e4e101cc126aa4d86521e1bc5eef3c139468a5cbe4178f2eb8da"
                   },
                   {
                       "packedsize":  280,
-                      "localfile":  "modules/gamelib/util.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/util.lua",
                       "unpackedhash":  "626022ce2ea67d1d1e2374109ac842492602e7ab574b8ee66a34009b44fa8999",
                       "unpackedsize":  144,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/util.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/util.lua.lzma",
                       "packedhash":  "a234e16895050fc81cab5d7f1bcb8888d41a592d77ed296624b7ce19ebd73fee"
                   },
                   {
                       "packedsize":  1243,
-                      "localfile":  "modules/gamelib/ui/uicreaturebutton.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/ui/uicreaturebutton.lua",
                       "unpackedhash":  "33c573121f999fc8285f174eb092185ad2c096fc214b8f17660a96f775c69937",
                       "unpackedsize":  1072,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/ui/uicreaturebutton.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/ui/uicreaturebutton.lua.lzma",
                       "packedhash":  "261786d4324e2b9b9cfb8622f6bc5956ac6abd2bc70745a5893ae0c313909265"
                   },
                   {
                       "packedsize":  1807,
-                      "localfile":  "modules/gamelib/ui/uiitem.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/ui/uiitem.lua",
                       "unpackedhash":  "9eb7e7e67c71be9df603bab6c606606089052364db718453f3745efad8e7bf93",
                       "unpackedsize":  1648,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/ui/uiitem.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/ui/uiitem.lua.lzma",
                       "packedhash":  "60ad951e61b744da0697389244072edbfde97a1784e2f061eeed8f2c1f76031b"
                   },
                   {
                       "packedsize":  2225,
-                      "localfile":  "modules/gamelib/ui/uiminimap.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/ui/uiminimap.lua",
                       "unpackedhash":  "5f8223bb546622839454fae886c5f06183f77b135b6008010c46d80db2313f20",
                       "unpackedsize":  2064,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/gamelib/ui/uiminimap.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/gamelib/ui/uiminimap.lua.lzma",
                       "packedhash":  "efef64f9a7009db19a69df521d50ae618388a196d2bc8012aaeae3789244b05a"
                   },
                   {
                       "packedsize":  7853,
-                      "localfile":  "modules/game_actionbar/actionbar.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_actionbar/actionbar.lua",
                       "unpackedhash":  "e98e00937765a2a7f2e48563918e8f9d0c69ba70ce010b82c791668413e9c1db",
                       "unpackedsize":  7616,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_actionbar/actionbar.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_actionbar/actionbar.lua.lzma",
                       "packedhash":  "c2f2d4949209d469d3f1ac8d9b0d1da4e98cac22fee7e7e64566a0a2d33d74cf"
                   },
                   {
                       "packedsize":  1681,
-                      "localfile":  "modules/game_autoloot/autoloot.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_autoloot/autoloot.lua",
                       "unpackedhash":  "6cde7be3496f2338362e95e7ad4289b6a795029afc3e5045dd0b122f70f41ce9",
                       "unpackedsize":  1520,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_autoloot/autoloot.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_autoloot/autoloot.lua.lzma",
                       "packedhash":  "706509a29a16f03a73cbb8f5d20c36b009a5d18206f47b77430fdc570f656e06"
                   },
                   {
                       "packedsize":  3295,
-                      "localfile":  "modules/game_battle/battle.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_battle/battle.lua",
                       "unpackedhash":  "e936eb64f0aa684a24fdecab5df31afc45ce3d143a672cf481f27a95d905d17e",
                       "unpackedsize":  3120,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_battle/battle.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_battle/battle.lua.lzma",
                       "packedhash":  "649f2889b1ba6eef248415436541358a120ed8e690d520df25ce9d7971bb41bf"
                   },
                   {
                       "packedsize":  582,
-                      "localfile":  "modules/game_bugreport/bugreport.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_bugreport/bugreport.lua",
                       "unpackedhash":  "5df07847800745468a286a1e4e2124a507d5bf198fe4005b54699777fd0d8dc9",
                       "unpackedsize":  432,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_bugreport/bugreport.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_bugreport/bugreport.lua.lzma",
                       "packedhash":  "da244c13896197688b695b89888c151080f63803b3cebb26d56c3c1913c9a124"
                   },
                   {
                       "packedsize":  630,
-                      "localfile":  "modules/game_buttons/buttons.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_buttons/buttons.lua",
                       "unpackedhash":  "aefbfe30319e7a8ed3ce1976274f93905b6a2ec248101493e781472e7c5dcc33",
                       "unpackedsize":  480,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_buttons/buttons.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_buttons/buttons.lua.lzma",
                       "packedhash":  "3d6f5d2def80902f8dec17d48abe2c17ecdda5af14407765fe5d11256bb8b1bf"
                   },
                   {
                       "packedsize":  13085,
-                      "localfile":  "modules/game_chat/chat.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_chat/chat.lua",
                       "unpackedhash":  "d62b42c757dcaacd6d65b7d2ae962269ae8a7e796cdb8ec85a79ed213534ff25",
                       "unpackedsize":  12800,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_chat/chat.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_chat/chat.lua.lzma",
                       "packedhash":  "dfcdee1469c967514783572635939ef85ed5cb06c0cc75bb6b57b2f5eb6a89a1"
                   },
                   {
                       "packedsize":  321,
-                      "localfile":  "modules/game_chat/emotes_convertion.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_chat/emotes_convertion.lua",
                       "unpackedhash":  "600209cc0cc1d9333a50d0e82da6875bef6763cb5ab97a74d453164852c4a463",
                       "unpackedsize":  160,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_chat/emotes_convertion.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_chat/emotes_convertion.lua.lzma",
                       "packedhash":  "89a2f85ac2c838ab257e06389d22722ad9b7387ee5632fa2fa2045b9afbee4b8"
                   },
                   {
                       "packedsize":  11916,
-                      "localfile":  "modules/game_console/console.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_console/console.lua",
                       "unpackedhash":  "78364f1b26c6d719fd803803f5015a2594dd5948653987d3fa483582ef930bdc",
                       "unpackedsize":  11632,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_console/console.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_console/console.lua.lzma",
                       "packedhash":  "a6a0328592bbef8f241730516c0177b7f5524535d59ed9ab3d5edc26272b6705"
                   },
                   {
                       "packedsize":  5454,
-                      "localfile":  "modules/game_containers/containers.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_containers/containers.lua",
                       "unpackedhash":  "fdf4edddba38833934c918456708c57c691d154c5cb188d06aa3b4e4c83ea285",
                       "unpackedsize":  5248,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_containers/containers.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_containers/containers.lua.lzma",
                       "packedhash":  "0867eb3bf633621368b2339960e41d8230b8b77c92e78764c6ba83e5bb766697"
                   },
                   {
                       "packedsize":  2222,
-                      "localfile":  "modules/game_craft/game_craft.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_craft/game_craft.lua",
                       "unpackedhash":  "008cc8465c8a577e7f0cdbe0f88855e05978fa5f0098df87ebc75e31f99b75d5",
                       "unpackedsize":  2048,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_craft/game_craft.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_craft/game_craft.lua.lzma",
                       "packedhash":  "6c8dcacfd7508b8dc9d0589673393f1a5938f4958c39746f0e3e07b526fc98ce"
                   },
                   {
                       "packedsize":  920,
-                      "localfile":  "modules/game_creatureinformation/game_creatureinformation.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_creatureinformation/game_creatureinformation.lua",
                       "unpackedhash":  "57f847ed325f07d079a29d127f293c4673a3431c96e4f5242dd0d24509b84c63",
                       "unpackedsize":  736,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_creatureinformation/game_creatureinformation.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_creatureinformation/game_creatureinformation.lua.lzma",
                       "packedhash":  "9f0552f2291151e92c27b045320587a749de7290a70452fe50a1b2a61e68ddf1"
                   },
                   {
                       "packedsize":  6451,
-                      "localfile":  "modules/game_dex/game_dex.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_dex/game_dex.lua",
                       "unpackedhash":  "847aab2ed9ac89a9269503f9747299e58e71abea742423def3eadab34b25d95a",
                       "unpackedsize":  6240,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_dex/game_dex.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_dex/game_dex.lua.lzma",
                       "packedhash":  "a623c447d442adcceade7f6cafa0e6ab774d7f461026db66932016311bf470d5"
                   },
                   {
                       "packedsize":  2382,
-                      "localfile":  "modules/game_donate/game_donate.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_donate/game_donate.lua",
                       "unpackedhash":  "7b2414d660a09979c093abaa6defd28d4264403155c69cd13d2872f508c5c86e",
                       "unpackedsize":  2208,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_donate/game_donate.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_donate/game_donate.lua.lzma",
                       "packedhash":  "f79c4f400b9cd4211ba8201085184b72559f37b4e9419654e2b39b7e6a60a909"
                   },
                   {
                       "packedsize":  1962,
-                      "localfile":  "modules/game_donationgoals/donationgoals.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_donationgoals/donationgoals.lua",
                       "unpackedhash":  "99388e5079e41ad210a5a4518cb4f31c51bddc81ab3b4c2ebe7ae17eea3c7648",
                       "unpackedsize":  1792,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_donationgoals/donationgoals.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_donationgoals/donationgoals.lua.lzma",
                       "packedhash":  "6a82228dddd64cef9065e983ebe52b61ce57886f53ad2d680a5b61f4189e99f7"
                   },
                   {
                       "packedsize":  823,
-                      "localfile":  "modules/game_evolution/evolution.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_evolution/evolution.lua",
                       "unpackedhash":  "b6620301ec60f39de328d9d489513276c566427af970d207f16dea699f3f6aa1",
                       "unpackedsize":  672,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_evolution/evolution.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_evolution/evolution.lua.lzma",
                       "packedhash":  "a99166efe69954eb8de121ca7bbb084b061c95a068d64f9a6140ea85987ae7bc"
                   },
                   {
                       "packedsize":  1420,
-                      "localfile":  "modules/game_features/features.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_features/features.lua",
                       "unpackedhash":  "8f81ef330b847010e5b0359309d3b5243197cffe056b520518ee7f6e147fc72b",
                       "unpackedsize":  1264,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_features/features.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_features/features.lua.lzma",
                       "packedhash":  "56d5747b82d6ce387a9283a3932eaf6d81b787ea75713133f4ed796db3f80ffd"
                   },
                   {
                       "packedsize":  1155,
-                      "localfile":  "modules/game_hotkeys/hotkeys_extra.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_hotkeys/hotkeys_extra.lua",
                       "unpackedhash":  "d6cea49e399d3df407a45f041d7fe8f8670a51f0f651c10b111e964aef3ee99c",
                       "unpackedsize":  992,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_hotkeys/hotkeys_extra.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_hotkeys/hotkeys_extra.lua.lzma",
                       "packedhash":  "4e77fb70eb99c872abecf3745e1d268dcbe3d1bead1a3e7aa91a2685d3c9be5f"
                   },
                   {
                       "packedsize":  5233,
-                      "localfile":  "modules/game_hotkeys/hotkeys_manager.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_hotkeys/hotkeys_manager.lua",
                       "unpackedhash":  "3d88eb3c73c12eb0aa91c8767dddf8659d7c58d1b62fc8f41e3067c191723a9d",
                       "unpackedsize":  5024,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_hotkeys/hotkeys_manager.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_hotkeys/hotkeys_manager.lua.lzma",
                       "packedhash":  "273ca953877b318e80ea77732bf3e3ae55e2532e6f63a2688e1e1b76632399d1"
                   },
                   {
                       "packedsize":  613,
-                      "localfile":  "modules/game_information/game_information.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_information/game_information.lua",
                       "unpackedhash":  "3c31136410413112132db5579f6bfed840d82a10fb64796614dc30a91de7168a",
                       "unpackedsize":  448,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_information/game_information.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_information/game_information.lua.lzma",
                       "packedhash":  "89bbfc289bf4f46c4afe04af399ca6cd13fa5625a454e79b3914db472aca3946"
                   },
                   {
                       "packedsize":  8616,
-                      "localfile":  "modules/game_interface/gameinterface.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_interface/gameinterface.lua",
                       "unpackedhash":  "ad15265cbca236e4f50ee7ab89edbf95a242e7aa4e15007c9500ae2d2e92fb6e",
                       "unpackedsize":  8368,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_interface/gameinterface.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_interface/gameinterface.lua.lzma",
                       "packedhash":  "a11171ad5a4df72bc8211e4532c10de2dada89ba68ffa0d4030945991638b32c"
                   },
                   {
                       "packedsize":  2017,
-                      "localfile":  "modules/game_interface/widgets/uigamemap.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_interface/widgets/uigamemap.lua",
                       "unpackedhash":  "3cf1a77c86e5678c24525280ed3541d0fbde27d6123489128a97717dd7f5876a",
                       "unpackedsize":  1856,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_interface/widgets/uigamemap.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_interface/widgets/uigamemap.lua.lzma",
                       "packedhash":  "111f9474ae1f541e3239af76d0cd1d5b4ad048da1fc684426301851b90698d8d"
                   },
                   {
                       "packedsize":  2990,
-                      "localfile":  "modules/game_inventory/inventory.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_inventory/inventory.lua",
                       "unpackedhash":  "86f772869a2cd78988a2849c75f0647129b6954fb33ff2ac0748274fa4391701",
                       "unpackedsize":  2816,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_inventory/inventory.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_inventory/inventory.lua.lzma",
                       "packedhash":  "faba9877d4749e10096ec6119f14d067bfdfef9e6a24ebf2cb869481805afbd6"
                   },
                   {
                       "packedsize":  671,
-                      "localfile":  "modules/game_itemselector/itemselector.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_itemselector/itemselector.lua",
                       "unpackedhash":  "a83052871d3698fff1f4c61d0ebde817002bc55a89ba6bcd46dfef38caa40c8e",
                       "unpackedsize":  512,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_itemselector/itemselector.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_itemselector/itemselector.lua.lzma",
                       "packedhash":  "911f9b1e40464b90bd133b0d6e98f63c429ae9b2d201514c188fcca96096cd0c"
                   },
                   {
                       "packedsize":  8805,
-                      "localfile":  "modules/game_market/market.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_market/market.lua",
                       "unpackedhash":  "949a70e2279ccfceb29a4d9ae96023fdb98532e9d565858227bb665705795385",
                       "unpackedsize":  8560,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_market/market.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_market/market.lua.lzma",
                       "packedhash":  "442d8e58692ce4c1bed56207473f23a29135280611e29b6f09a4cfb535593aa7"
                   },
                   {
                       "packedsize":  1025,
-                      "localfile":  "modules/game_market/marketoffer.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_market/marketoffer.lua",
                       "unpackedhash":  "f8484b836c99f6d4b74bf2aa852fe2aebd5e6a2d5a4a632aab4ad9b38a335e1e",
                       "unpackedsize":  864,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_market/marketoffer.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_market/marketoffer.lua.lzma",
                       "packedhash":  "aad82e50b632fe396d49bd69167105a73e4e7290398747f04838ebf6c41e55ed"
                   },
                   {
                       "packedsize":  1871,
-                      "localfile":  "modules/game_market/marketprotocol.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_market/marketprotocol.lua",
                       "unpackedhash":  "12a3dceae33714c8506dc5cb8c726bbdc2d0d9fa15dc9bb89500c3faa7ef29e0",
                       "unpackedsize":  1696,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_market/marketprotocol.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_market/marketprotocol.lua.lzma",
                       "packedhash":  "220c06b5a834314ddeabbb415af13f483e58562f7baf0e3bb4240abda422789d"
                   },
                   {
                       "packedsize":  808,
-                      "localfile":  "modules/game_market/offerstatistic.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_market/offerstatistic.lua",
                       "unpackedhash":  "e10ae240dc62772e9aa3ab21015dce69a75a8f4afe4d5082a1123c08a8af31f8",
                       "unpackedsize":  640,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_market/offerstatistic.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_market/offerstatistic.lua.lzma",
                       "packedhash":  "87c16bfd213d78a2c55557f171e4fa85918513b41e76d39f9f3c406879b3920c"
                   },
                   {
                       "packedsize":  2052,
-                      "localfile":  "modules/game_minimap/minimap.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_minimap/minimap.lua",
                       "unpackedhash":  "485d60ac40de3f9217a4069dee4d9c95b6f34267716cfbfb7af97fd1957c2962",
                       "unpackedsize":  1888,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_minimap/minimap.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_minimap/minimap.lua.lzma",
                       "packedhash":  "a3d2d819c33a7c75bd322404a7acc725f53f7289fbc8dedbeb752203ae06b3a5"
                   },
                   {
                       "packedsize":  1326,
-                      "localfile":  "modules/game_minimap roxy/minimap.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_minimap roxy/minimap.lua",
                       "unpackedhash":  "40c62d93dcafc407aefc8520a93217abe0a8813abe1ed73cf25c0fbe699be862",
                       "unpackedsize":  1168,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_minimap roxy/minimap.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_minimap roxy/minimap.lua.lzma",
                       "packedhash":  "e86ca4c0f89aa35e841caf94f9505358c35e3e568827a0519432ac05d2608356"
                   },
                   {
                       "packedsize":  1299,
-                      "localfile":  "modules/game_modaldialog/modaldialog.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_modaldialog/modaldialog.lua",
                       "unpackedhash":  "3c7010da1940bc64977842bf82e378ea1493fae9e3a5964f618c158fa500ad75",
                       "unpackedsize":  1136,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_modaldialog/modaldialog.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_modaldialog/modaldialog.lua.lzma",
                       "packedhash":  "3c3e8cd744da4e9936c64b8353a2bf977178d69f50d2c1cc7604055acca7d37a"
                   },
                   {
                       "packedsize":  702,
-                      "localfile":  "modules/game_newpoke/newPokemon.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_newpoke/newPokemon.lua",
                       "unpackedhash":  "73f4662fffbd1d9d6e1299cc1cc5654b57bda645a200235f4ee2730ca68e49c2",
                       "unpackedsize":  544,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_newpoke/newPokemon.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_newpoke/newPokemon.lua.lzma",
                       "packedhash":  "102b2c6171faae6b29e244180845226e9d7606eaf39f756682dd978acbcc776a"
                   },
                   {
                       "packedsize":  3325,
-                      "localfile":  "modules/game_npcdialog/npcdialog.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_npcdialog/npcdialog.lua",
                       "unpackedhash":  "706328944c52597170f3e46a106364cf230d5609a0cbd4b97e66b492bc1d9eb1",
                       "unpackedsize":  3152,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_npcdialog/npcdialog.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_npcdialog/npcdialog.lua.lzma",
                       "packedhash":  "7b02004a0b6c9f0ca7999721755602cabf425f381b0adba4117ea48e945c4ec8"
                   },
                   {
                       "packedsize":  3847,
-                      "localfile":  "modules/game_npctrade/npctrade.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_npctrade/npctrade.lua",
                       "unpackedhash":  "23996c0d30b101eb53b14805c399274095ee97c9af6d9c96b13d044351a647ce",
                       "unpackedsize":  3664,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_npctrade/npctrade.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_npctrade/npctrade.lua.lzma",
                       "packedhash":  "f86e6a21120f6be7289cf555ed12fa8fe03a1f664730c49349d193112e0709e2"
                   },
                   {
                       "packedsize":  6434,
-                      "localfile":  "modules/game_offset/offset.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_offset/offset.lua",
                       "unpackedhash":  "3c07cc53984fe8847f52a9fd3cb46ced93ec05f10650b8b2166a324314ce2418",
                       "unpackedsize":  6224,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_offset/offset.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_offset/offset.lua.lzma",
                       "packedhash":  "aca249f5d83df69a320170623c8cb19757a135c87a7e14d459d18aacc5599d86"
                   },
                   {
                       "packedsize":  5904,
-                      "localfile":  "modules/game_outfit/outfit.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_outfit/outfit.lua",
                       "unpackedhash":  "4e902056b2311aaebeb7fd7e993f5bba9f1388ee9369aaeb9f9dc915937d8b6b",
                       "unpackedsize":  5696,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_outfit/outfit.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_outfit/outfit.lua.lzma",
                       "packedhash":  "55effbb99e769525b715b5faafb97424a794754b50d4a7c0f3f6820e64db4b5e"
                   },
                   {
                       "packedsize":  3967,
-                      "localfile":  "modules/game_pass/pass.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_pass/pass.lua",
                       "unpackedhash":  "741c898c32ad69238b62ca5384d9935bb2c01c4c884182ee9a65d103f6134a98",
                       "unpackedsize":  3792,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_pass/pass.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_pass/pass.lua.lzma",
                       "packedhash":  "015edb1bd208c8e28906dbd9cfbce91edf70af469ac13e445941dab849cbc07a"
                   },
                   {
                       "packedsize":  1857,
-                      "localfile":  "modules/game_pix/game_pix.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_pix/game_pix.lua",
                       "unpackedhash":  "03920b40b1dbccfe1a54c5912bc6362a7dec49570f932ae8658566aaf13f4241",
                       "unpackedsize":  1696,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_pix/game_pix.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_pix/game_pix.lua.lzma",
                       "packedhash":  "59aa976d55f8d56828433f900004554c9b52ba3786174275e3f764f445d35656"
                   },
                   {
                       "packedsize":  1156,
-                      "localfile":  "modules/game_playerdeath/playerdeath.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_playerdeath/playerdeath.lua",
                       "unpackedhash":  "79e76aa89a836214c01b645a3d9bd13177c18e84fd2e62707c71867711a5ec86",
                       "unpackedsize":  992,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_playerdeath/playerdeath.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_playerdeath/playerdeath.lua.lzma",
                       "packedhash":  "5755ff4686d82048a9e74169ab9820423888158e9f83ee79dccbe721809d76be"
                   },
                   {
                       "packedsize":  444,
-                      "localfile":  "modules/game_playermount/playermount.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_playermount/playermount.lua",
                       "unpackedhash":  "ab6d65bee0310edee1bf4849ec25060385c9281b64b23b291959ac041ee051f3",
                       "unpackedsize":  288,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_playermount/playermount.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_playermount/playermount.lua.lzma",
                       "packedhash":  "cdf78f5c0a9718ba860411275c51d8691c945a318f31658456ed0487097a1236"
                   },
                   {
                       "packedsize":  832,
-                      "localfile":  "modules/game_playertrade/playertrade.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_playertrade/playertrade.lua",
                       "unpackedhash":  "70574868d9df774661be1f37c48accb70edc05ffcbd5bbf7883c94fb87406ea0",
                       "unpackedsize":  672,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_playertrade/playertrade.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_playertrade/playertrade.lua.lzma",
                       "packedhash":  "79de095705c9abf84e7667ee3be7eb4bccd89434d36bb498edceae29112f389c"
                   },
                   {
                       "packedsize":  2140,
-                      "localfile":  "modules/game_pokemonmoves/pokemonmoves.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_pokemonmoves/pokemonmoves.lua",
                       "unpackedhash":  "966357ff7bb2101b35356f4f87a2134309817ef1b56f281666a9d2bb76676838",
                       "unpackedsize":  1968,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_pokemonmoves/pokemonmoves.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_pokemonmoves/pokemonmoves.lua.lzma",
                       "packedhash":  "a5eb17d6ee10481d4618b49ebfa4c3dc0a4acfc51fcc0202cc9cf06b5a9f8394"
                   },
                   {
                       "packedsize":  2505,
-                      "localfile":  "modules/game_poketeam/poketeam.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_poketeam/poketeam.lua",
                       "unpackedhash":  "0b548082dd2b3368007274ef49eb652f8d6a452a5fa44d6752452d91fe986ef1",
                       "unpackedsize":  2336,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_poketeam/poketeam.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_poketeam/poketeam.lua.lzma",
                       "packedhash":  "130bb8f0746a77e91f75ec4221d2ec5156211dcee0637ea14c63c4244404bd91"
                   },
                   {
                       "packedsize":  3909,
-                      "localfile":  "modules/game_protocol/protocol.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_protocol/protocol.lua",
                       "unpackedhash":  "5b1abaadf16b5db3621077ea3eaf69fa7b4d2c6b6ebbb953132116cf718cb18b",
                       "unpackedsize":  3728,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_protocol/protocol.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_protocol/protocol.lua.lzma",
                       "packedhash":  "69bfdab6edd7f57d8e4dcb90d94a3effd6ff426a761322c7a38c2ef47a8076f1"
                   },
                   {
                       "packedsize":  2681,
-                      "localfile":  "modules/game_questlog/questlog.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_questlog/questlog.lua",
                       "unpackedhash":  "6d1ba9883d08a78b80fae512fdc0c99b42aac36968634010d33a8f2212492b37",
                       "unpackedsize":  2512,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_questlog/questlog.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_questlog/questlog.lua.lzma",
                       "packedhash":  "13854a33eb47cd6a3c842e8fc70a41e470c448f556b9618abef00f61cb6da610"
                   },
                   {
                       "packedsize":  412,
-                      "localfile":  "modules/game_request/game_request.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_request/game_request.lua",
                       "unpackedhash":  "5f88cdf7f0026bf7d820a6198c7c4a9c870f200e0e53682150fdd8e715ff35b5",
                       "unpackedsize":  256,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_request/game_request.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_request/game_request.lua.lzma",
                       "packedhash":  "d5347471c05f87ccd3dd90504d8a07589ec4de8adf4033f9408d317f6f900152"
                   },
                   {
                       "packedsize":  866,
-                      "localfile":  "modules/game_rewards/game_rewards.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_rewards/game_rewards.lua",
                       "unpackedhash":  "5a01641572518cd3067d2e139b04b5f6c2b569256584e48d686d8404ad954bde",
                       "unpackedsize":  704,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_rewards/game_rewards.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_rewards/game_rewards.lua.lzma",
                       "packedhash":  "fa077a8e64003b8796ee50ff420bf52873d014b86a661988872c87d0e82d1b42"
                   },
                   {
                       "packedsize":  975,
-                      "localfile":  "modules/game_roleta/game_roleta.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_roleta/game_roleta.lua",
                       "unpackedhash":  "1b526a49dd85f4914ae632943973b52102f9ca6cf11d0a2527e46e89e2b67edd",
                       "unpackedsize":  816,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_roleta/game_roleta.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_roleta/game_roleta.lua.lzma",
                       "packedhash":  "581af2dbbc4a89960aeff0a1172464064eea547e6fb8022e9e1332be3d297fa5"
                   },
                   {
                       "packedsize":  1655,
-                      "localfile":  "modules/game_ruleviolation/ruleviolation.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_ruleviolation/ruleviolation.lua",
                       "unpackedhash":  "788a0bb510449ce90740e9db28614a5205e968147096fee6f87d1c9b9263f478",
                       "unpackedsize":  1488,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_ruleviolation/ruleviolation.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_ruleviolation/ruleviolation.lua.lzma",
                       "packedhash":  "b030cb0395a6286c8f33415170a7d48e6028dcbbf5e6cb9f294917260ac84d79"
                   },
                   {
                       "packedsize":  2858,
-                      "localfile":  "modules/game_shaders/shaders.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_shaders/shaders.lua",
                       "unpackedhash":  "cfe184f6cf0cd0893f292b778d2ce181e730c02089989fcd896c1ed5efc8ffa4",
                       "unpackedsize":  2688,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_shaders/shaders.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_shaders/shaders.lua.lzma",
                       "packedhash":  "e583c6a60f8b029fdf01cf1bf66d97527edf1e05fdcb4f621a00c5791e016401"
                   },
                   {
                       "packedsize":  3149,
-                      "localfile":  "modules/game_shop/game_shop.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_shop/game_shop.lua",
                       "unpackedhash":  "faed4bac0601ece700cb399d80ca7b7c3f4da7d50cefc30dd53da1981b4a74ba",
                       "unpackedsize":  2976,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_shop/game_shop.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_shop/game_shop.lua.lzma",
                       "packedhash":  "8288efc65cff65450f7ef9d9973baaf0d907a86e7ab99358e5d70cab6855a7b4"
                   },
                   {
                       "packedsize":  3279,
-                      "localfile":  "modules/game_skills/skills.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_skills/skills.lua",
                       "unpackedhash":  "1d140ea68c4e9baed0b08c93793d605c6c953dba069483265b3551a6db90b3ec",
                       "unpackedsize":  3104,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_skills/skills.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_skills/skills.lua.lzma",
                       "packedhash":  "59dfa7adf39a48c8e76acc058f0fda7c195cf12771576ab0c7c1376711a72e86"
                   },
                   {
                       "packedsize":  2293,
-                      "localfile":  "modules/game_spectate/spectate.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_spectate/spectate.lua",
                       "unpackedhash":  "e990b7c95122174dc80fbc4d460904992e2f56b9b678b3337bf19a2b3031efaa",
                       "unpackedsize":  2128,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_spectate/spectate.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_spectate/spectate.lua.lzma",
                       "packedhash":  "3c729be6c827d75cb5438809400a8dfc2e26076bd488f2c32d3a6dea72a29d75"
                   },
                   {
                       "packedsize":  605,
-                      "localfile":  "modules/game_stats/stats.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_stats/stats.lua",
                       "unpackedhash":  "39d30b09d1871bc9b2c20b80d2e65a2faec5b37ae77ed99a0ea7cc41c32dbbb0",
                       "unpackedsize":  464,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_stats/stats.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_stats/stats.lua.lzma",
                       "packedhash":  "fa7b6a5e48521477a564e91426d839995ba82df880113112000aa517f2e81297"
                   },
                   {
                       "packedsize":  1413,
-                      "localfile":  "modules/game_textmessage/textmessage.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_textmessage/textmessage.lua",
                       "unpackedhash":  "6fd3f5efc2f217ee572ddef7395ff5720152375d2ccb1fa66277c7a57a440c9d",
                       "unpackedsize":  1248,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_textmessage/textmessage.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_textmessage/textmessage.lua.lzma",
                       "packedhash":  "bab2875d72a1af8a420928adc7b372548e3bed16302ccfe0c918130d7a773b33"
                   },
                   {
                       "packedsize":  1124,
-                      "localfile":  "modules/game_textwindow/textwindow.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_textwindow/textwindow.lua",
                       "unpackedhash":  "077ac924cc8c8d78b499995ff62fe30f831dd05b1b87598bcf13f23d51c7379e",
                       "unpackedsize":  960,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_textwindow/textwindow.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_textwindow/textwindow.lua.lzma",
                       "packedhash":  "9380e957b9de9ab9d713db0ec29d1226f4105f4addc3c8c229207a4aa86a9879"
                   },
                   {
                       "packedsize":  906,
-                      "localfile":  "modules/game_things/things.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_things/things.lua",
                       "unpackedhash":  "9dcdc502a1ed3e81fa3210ca09db5361af69e11fcbeb20c255acc9b4f4d719de",
                       "unpackedsize":  752,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_things/things.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_things/things.lua.lzma",
                       "packedhash":  "5c6ec4d5b63ac987acd98f42a52e47e95e3c88245198a7648733e1ba9d19fa4f"
                   },
                   {
                       "packedsize":  3765,
-                      "localfile":  "modules/game_topbar/topbar.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_topbar/topbar.lua",
                       "unpackedhash":  "d3057fdb7c384f850f848bfa5739850d68d91d5c715acc977080f461cf0af414",
                       "unpackedsize":  3584,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_topbar/topbar.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_topbar/topbar.lua.lzma",
                       "packedhash":  "9c480c1b7d6b4f7ef779b3b1b5f10b3df23985534ad9fc53fa77864cd7bf48ad"
                   },
                   {
                       "packedsize":  9553,
-                      "localfile":  "modules/game_tutorial/configs_en.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_tutorial/configs_en.lua",
                       "unpackedhash":  "58246693a456b497b3425b370dfe5ea2c8fe0d5c6f147e98fdcd0cb5fa99201f",
                       "unpackedsize":  9296,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_tutorial/configs_en.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_tutorial/configs_en.lua.lzma",
                       "packedhash":  "fccd40ac74b4623425cb638e7036f6030c07cc1a5528d6d33baab2dc3e675469"
                   },
                   {
                       "packedsize":  7193,
-                      "localfile":  "modules/game_tutorial/configs_pt.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_tutorial/configs_pt.lua",
                       "unpackedhash":  "4fa3bb5b9cb06cca6ab8207a70b15439e873cedc56ed88ad84ade0babab20366",
                       "unpackedsize":  6960,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_tutorial/configs_pt.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_tutorial/configs_pt.lua.lzma",
                       "packedhash":  "aca3cccdbea36dfc0630657ebc1cdd201f06679543ada8aee8ac8781b0a8da8d"
                   },
                   {
                       "packedsize":  1971,
-                      "localfile":  "modules/game_tutorial/tutorial.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_tutorial/tutorial.lua",
                       "unpackedhash":  "96a7b8e77960e41c34eec31d6857cda04955d4168abd43aeba7c84b60e1fed5a",
                       "unpackedsize":  1808,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_tutorial/tutorial.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_tutorial/tutorial.lua.lzma",
                       "packedhash":  "28d92a9182001a7ac005e0983d2d5d6ee49165ab93a020a6aef2e576e5c74ec3"
                   },
                   {
                       "packedsize":  2958,
-                      "localfile":  "modules/game_viplist/viplist.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_viplist/viplist.lua",
                       "unpackedhash":  "046df939f7ff9db24e72789c0365bbdec53f9190b2addd40004348c288440679",
                       "unpackedsize":  2784,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_viplist/viplist.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_viplist/viplist.lua.lzma",
                       "packedhash":  "e3490808dbd889f7ccf4891cb0b07ce4dce4b641fbc101c3b4d53d0bff00e9ed"
                   },
                   {
                       "packedsize":  2907,
-                      "localfile":  "modules/game_walking/walking.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_walking/walking.lua",
                       "unpackedhash":  "a0a809097336ff166cf75a2920b296b43202cbf757c9c15d8ccedabac7a241d9",
                       "unpackedsize":  2736,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/game_walking/walking.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/game_walking/walking.lua.lzma",
                       "packedhash":  "fc4e08f2d476057379ee1bcc269204e0b4e16d35401f366b816c0087eaa824e2"
                   },
                   {
                       "packedsize":  4560,
-                      "localfile":  "modules/market/market.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/market/market.lua",
                       "unpackedhash":  "04035a2016f8c02a38f3023f5d5d1adb6eb30757a903cee36949b620b77df636",
                       "unpackedsize":  4368,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/market/market.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/market/market.lua.lzma",
                       "packedhash":  "3416909bde31e481c5eea6f6f5742542c26d33a2291c7935e76f25ee4ab59a35"
                   },
                   {
                       "packedsize":  935,
-                      "localfile":  "modules/pokemon_shaders/pokemon_shaders.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/pokemon_shaders/pokemon_shaders.lua",
                       "unpackedhash":  "0cdc48af46af701b3dde7a8c51f1d9f3004e18bdbd42f44d18072ce5cd4f8553",
                       "unpackedsize":  768,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/pokemon_shaders/pokemon_shaders.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/pokemon_shaders/pokemon_shaders.lua.lzma",
                       "packedhash":  "5faf9e4853ab419e3aceae5e36f171d3d93610ef923625a30a2325547e5e72d6"
                   },
                   {
                       "packedsize":  1663,
-                      "localfile":  "modules/task_kill/task_kill.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/task_kill/task_kill.lua",
                       "unpackedhash":  "82307d9302a83a4646d7be5d951a2680959e01998d2d69e0ea653fecad520bc8",
                       "unpackedsize":  1504,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/task_kill/task_kill.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/task_kill/task_kill.lua.lzma",
                       "packedhash":  "6d0470fa8261406e587f2cc9fe68b7b24639ace4dbf54ce59116baf0740419e2"
                   },
                   {
                       "packedsize":  2668,
-                      "localfile":  "modules/updater/updater.lua",
+                      "localfile":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/updater/updater.lua",
                       "unpackedhash":  "a8d507564b7356bf3dd62fd73dd59b4744bf1ad56f08864f4ced6856c94756b3",
                       "unpackedsize":  2496,
-                      "url":  "r_files/temp_extracted/OTCLIENTE%20NORDEMON%20CRIPT/modules/updater/updater.lua.lzma",
+                      "url":  "r_files/temp_extracted/OTCLIENTE NORDEMON CRIPT/modules/updater/updater.lua.lzma",
                       "packedhash":  "13fafdb512187ef944fe5abc691c4d8849c83c092273db554fc7604733d37c74"
                   }
               ],
