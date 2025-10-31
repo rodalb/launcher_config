@@ -440,7 +440,7 @@ func (a *App) downloadZip(url, targetFolder string, progress bool) error {
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		return err
+		return fmt.Errorf("failed to download: status %d", resp.StatusCode)
 	}
 
 	a.totalBytes = resp.ContentLength
@@ -604,7 +604,7 @@ func (a *App) downloadFile(url, dst string, progress bool) error {
 	defer resp.Body.Close()
 
 	if resp.StatusCode != http.StatusOK {
-		return err
+		return fmt.Errorf("failed to download: status %d", resp.StatusCode)
 	}
 
 	var reader io.Reader = resp.Body
