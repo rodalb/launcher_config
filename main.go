@@ -135,7 +135,7 @@ func doUpdate(logger *logrus.Logger, url string) error {
 
 func main() {
 	// Base URL onde o cliente OTClient v8 do Nordemon Poketibia está hospedado
-	baseURL := "https://raw.githubusercontent.com/rodalb/launcher_config/master/"
+	baseURL := "https://raw.githubusercontent.com/rodalb/launcher_config/main/"
 	executable, err := os.Executable()
 	if err != nil {
 		fmt.Printf("Failed to get executable path: %v", err)
