@@ -238,7 +238,7 @@ func (a *App) Update() {
 		}
 	}
 	
-	zipURL := "https://github.com/rodalb/launcher_config/releases/download/1.3/OTCLIENT.zip"
+	zipURL := "https://github.com/rodalb/launcher_config/releases/download/1.4/OTCLIENT.zip"
 	a.logger.Infof("ZIP URL: %s", zipURL)
 	
 	err := a.downloadZip(zipURL, "client", true)
