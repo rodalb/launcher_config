@@ -238,10 +238,25 @@ func (a *App) Update() {
 		}
 	}
 	
-	zipURL := "https://github.com/rodalb/launcher_config/releases/download/1.4/OTCLIENT.zip"
+	// Get download URL from GitHub config
+	downloadURLPath := a.baseURL + "client_download_url.txt"
+	a.logger.Infof("Fetching download URL from: %s", downloadURLPath)
+	resp, err := http.Get(downloadURLPath)
+	if err != nil {
+		a.logger.Errorf("Error fetching download URL: %v", err)
+		return
+	}
+	defer resp.Body.Close()
+	
+	urlBytes, err := io.ReadAll(resp.Body)
+	if err != nil {
+		a.logger.Errorf("Error reading download URL: %v", err)
+		return
+	}
+	zipURL := strings.TrimSpace(string(urlBytes))
 	a.logger.Infof("ZIP URL: %s", zipURL)
 	
-	err := a.downloadZip(zipURL, "client", true)
+	err = a.downloadZip(zipURL, "client", true)
 	if err != nil {
 		a.logger.Errorf("Error downloading client ZIP: %v", err)
 		return
@@ -251,7 +266,7 @@ func (a *App) Update() {
 	
 	// Save version locally after successful download
 	versionURL := a.baseURL + "client_version.txt"
-	resp, err := http.Get(versionURL)
+	resp, err = http.Get(versionURL)
 	if err == nil {
 		defer resp.Body.Close()
 		versionBytes, err := io.ReadAll(resp.Body)
