@@ -188,6 +188,20 @@ func (a *App) LocalEnabled() bool {
 	return viper.GetBool("enableLocal")
 }
 
+func (a *App) ToggleMusic(value bool) {
+	a.logger.Infof("Setting musicEnabled to %v", value)
+	viper.Set("musicEnabled", value)
+	a.saveConfig()
+}
+
+func (a *App) MusicEnabled() bool {
+	// Default to true if not set
+	if !viper.IsSet("musicEnabled") {
+		return true
+	}
+	return viper.GetBool("musicEnabled")
+}
+
 func (a *App) OS() string {
 	os := runtime.GOOS
 	if os == "darwin" {
@@ -213,10 +227,21 @@ func (a *App) Update() {
 	a.downloadedFiles = 0
 	a.downloadedBytes = 0
 	
-	zipURL := "https://github.com/rodalb/launcher_config/releases/download/1.2/OTCLIENT.zip"
+	// Clean old client folders
+	a.logger.Infof("Cleaning old client folders...")
+	clientFolders := []string{"OTCLIENT", "OTCLIENT NORDEMON", "OTCLIENTE NORDEMON CRIPT", "client"}
+	for _, folder := range clientFolders {
+		oldPath := filepath.Join(a.appDirectory(), folder)
+		if fileExists(oldPath) {
+			a.logger.Infof("Removing old folder: %s", oldPath)
+			os.RemoveAll(oldPath)
+		}
+	}
+	
+	zipURL := "https://github.com/rodalb/launcher_config/releases/download/1.3/OTCLIENT.zip"
 	a.logger.Infof("ZIP URL: %s", zipURL)
 	
-	err := a.downloadZip(zipURL, "client_temp.zip", true)
+	err := a.downloadZip(zipURL, "client", true)
 	if err != nil {
 		a.logger.Errorf("Error downloading client ZIP: %v", err)
 		return
@@ -271,8 +296,8 @@ func (a *App) NeedsUpdate() bool {
 	resp, err := http.Get(versionURL)
 	if err != nil {
 		a.logger.Errorf("Error downloading version file: %v", err)
-		// Fallback: check if init.lua exists
-		initPath := filepath.Join(a.appDirectory(), "OTCLIENTE NORDEMON CRIPT", "init.lua")
+		// Fallback: check if init.lua exists in client folder
+		initPath := filepath.Join(a.appDirectory(), "client", "init.lua")
 		return !fileExists(initPath)
 	}
 	defer resp.Body.Close()
@@ -377,14 +402,17 @@ func readJSON(s string, d interface{}) error {
 	return nil
 }
 
-func (a *App) downloadZip(url, dst string, progress bool) error {
-	dst = filepath.Join(a.appDirectory(), dst)
-	err := os.MkdirAll(filepath.Dir(dst), 0755)
+func (a *App) downloadZip(url, targetFolder string, progress bool) error {
+	// Create target folder path
+	targetPath := filepath.Join(a.appDirectory(), targetFolder)
+	err := os.MkdirAll(targetPath, 0755)
 	if err != nil {
 		return err
 	}
 
-	out, err := os.Create(filepath.Join(os.TempDir(), filepath.Base(dst)))
+	// Download to temp file
+	tempFile := filepath.Join(os.TempDir(), "nordemon_download.zip")
+	out, err := os.Create(tempFile)
 	if err != nil {
 		return err
 	}
@@ -412,7 +440,8 @@ func (a *App) downloadZip(url, dst string, progress bool) error {
 	}
 	out.Close()
 
-	err = unzip(out.Name(), filepath.Dir(dst))
+	// Extract directly to target folder, flattening structure if needed
+	err = unzipToFolder(tempFile, targetPath)
 	if err != nil {
 		return err
 	}
@@ -460,6 +489,80 @@ func unzip(src, dst string) error {
 
 		out.Close()
 		rc.Close()
+	}
+
+	return nil
+}
+
+// unzipToFolder extracts ZIP contents, flattening if there's only one root folder
+func unzipToFolder(src, dst string) error {
+	r, err := zip.OpenReader(src)
+	if err != nil {
+		return err
+	}
+	defer r.Close()
+
+	// Check if all files are in a single root folder
+	var rootFolder string
+	for _, f := range r.File {
+		parts := strings.Split(f.Name, "/")
+		if len(parts) > 0 {
+			if rootFolder == "" {
+				rootFolder = parts[0]
+			} else if rootFolder != parts[0] {
+				// Multiple root folders, don't flatten
+				rootFolder = ""
+				break
+			}
+		}
+	}
+
+	// Extract files
+	for _, f := range r.File {
+		// Calculate target path
+		var targetPath string
+		if rootFolder != "" {
+			// Flatten: remove root folder from path
+			relPath := strings.TrimPrefix(f.Name, rootFolder+"/")
+			if relPath == "" {
+				continue // Skip root folder itself
+			}
+			targetPath = filepath.Join(dst, relPath)
+		} else {
+			// Keep structure as-is
+			targetPath = filepath.Join(dst, f.Name)
+		}
+
+		if f.FileInfo().IsDir() {
+			err := os.MkdirAll(targetPath, 0755)
+			if err != nil {
+				return err
+			}
+			continue
+		}
+
+		err := os.MkdirAll(filepath.Dir(targetPath), 0755)
+		if err != nil {
+			return err
+		}
+
+		rc, err := f.Open()
+		if err != nil {
+			return err
+		}
+
+		out, err := os.Create(targetPath)
+		if err != nil {
+			rc.Close()
+			return err
+		}
+
+		_, err = io.Copy(out, rc)
+		out.Close()
+		rc.Close()
+		if err != nil {
+			return err
+		}
 	}
 
 	return nil
@@ -524,13 +627,13 @@ func (a *App) localExecutable() string {
 }
 
 func (a *App) executable() string {
-	// O ZIP extrai para subpasta "OTCLIENTE NORDEMON CRIPT"
-	return filepath.Join(a.appDirectory(), "OTCLIENTE NORDEMON CRIPT", a.clientInfo.Executable)
+	// O ZIP extrai para subpasta "client"
+	return filepath.Join(a.appDirectory(), "client", a.clientInfo.Executable)
 }
 
 func (a *App) PlayDirect() {
 	// Caminho direto hardcoded
-	executable := filepath.Join(a.appDirectory(), "OTCLIENTE NORDEMON CRIPT", "otclient_gl.exe")
+	executable := filepath.Join(a.appDirectory(), "client", "otclient_gl.exe")
 	workingDir := filepath.Dir(executable)
 	
 	fmt.Printf("===== PLAY DIRECT =====\n")
