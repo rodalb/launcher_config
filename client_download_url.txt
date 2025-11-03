@@ -1,1 +1,1 @@
-https://github.com/rodalb/launcher_config/releases/download/1.4/OTCLIENT.zip
+https://github.com/rodalb/launcher_config/releases/download/v1.8/OTCLIENT.zip
